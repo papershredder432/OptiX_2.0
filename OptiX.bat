@@ -1,0 +1,2 @@
+node OptiX.js
+pause

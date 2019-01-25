@@ -1,0 +1,31 @@
+{
+  "name": "optix",
+  "version": "1.0.0",
+  "description": "A WIP Discord bot.",
+  "main": "OptiX.js",
+  "dependencies": {
+    "better-sqlite-pool": "^0.2.0",
+    "better-sqlite3": "^5.2.1",
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.6.1",
+    "ffmpeg-binaries": "^4.0.0",
+    "fortnite": "^4.1.1",
+    "fs": "0.0.1-security",
+    "iplocation": "^6.0.4",
+    "node-gyp": "^3.8.0",
+    "opusscript": "0.0.6",
+    "random-puppy": "^1.1.0",
+    "rebuild": "^0.1.2",
+    "request": "^2.88.0",
+    "snekfetch": "^4.0.4",
+    "systeminformation": "^3.54.0",
+    "ytdl-core": "^0.28.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "papershredder432#0883",
+  "license": "ISC"
+}
