@@ -1,0 +1,11 @@
+{
+    "OptiX": {
+        "default_prefix"    :   "Insert_Custom_Prefix",
+        "client_id"         :   "Insert_Client_Id",
+        "client_secret"     :   "Insert_Client_Secret",
+        "client_token"      :   "Insert_Client_Token"
+    },
+    "papershredder432": {
+        "info"      :   "I made this."
+    }
+}
