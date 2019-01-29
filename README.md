@@ -8,6 +8,8 @@
 If you use, please just credit me. Thanks!
 Open the project and type `npm i`
 
+The docs folder is not needed. It was created for this project's GitHub.io Page.
+
 To use for over 2,500 servers, start the OptiX_Shard.bat
 To use for under 2,500 servers, start the OptiX.bat
 
