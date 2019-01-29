@@ -24,5 +24,6 @@ Check out my Discord here: https://discordapp.com/invite/ydjYVJ2
 ~~- Guild settings~~
 ~~- Customizable prefix, logging channel, etc.~~
 - More game stats commands
-- Better music system
+- ~~Better~~ **A** music system
 - Make the customizable stuff easier to use
+- Make a batch file to setup the bot easier
